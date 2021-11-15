@@ -1,4 +1,4 @@
 Name: Zahra Celen
 Age: 22
 City:Berlaar
-Animals: cats, chickens
+Animals: cats, chickens,
